@@ -1,2 +1,3 @@
-# NanoBots
-Programm for management nanobots in OpenComputers
+# Systems control panel
+Programm for management base functions
+*pls i dont know what I doing*
