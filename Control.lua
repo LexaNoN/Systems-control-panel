@@ -1,7 +1,7 @@
 -----------[Systems control panel]-----------
 component = require("component");
-side = require("sides");
-color = require("colors");
+sides = require("sides");
+colors = require("colors");
 rs = component.redstone;
 -----------[Functions]-----------
 function coal_generator()
